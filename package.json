@@ -1,0 +1,17 @@
+{
+  "name": "my-fave-cocktails",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "json-server": "^0.16.3",
+    "react-router-dom": "^5.3.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts build",
+    "server": "json-server --watch db.json --port=4000"
+  }
+}

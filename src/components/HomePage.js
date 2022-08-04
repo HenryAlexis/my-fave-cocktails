@@ -11,9 +11,11 @@ function HomePage()
             setRecipes(data);
         })
     },[])
-    return <ul>
-        {recipes.map(item => {return <Recipe key={item.id} result={item} />})}
-    </ul>;
+    return <div className="container">
+        <div className="row">
+        {recipes.map(item => {return <Recipe key={item.id} result={item} save={false} />})}
+        </div>
+    </div>;
 }
 
 export default HomePage;

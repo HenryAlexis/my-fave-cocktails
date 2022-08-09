@@ -23,6 +23,33 @@
       "image": "https://www.thecocktaildb.com/images/media/drink/metwgh1606770327.jpg",
       "instructions": "Muddle mint leaves with sugar and lime juice. Add a splash of soda water and fill the glass with cracked ice. Pour the rum and top with soda water. Garnish and serve with straw.",
       "id": 4
+    },
+    {
+      "title": "Whisky Mac",
+      "image": "https://www.thecocktaildb.com/images/media/drink/yvvwys1461867858.jpg",
+      "instructions": "Pour both of the ingredients into a wine goblet with no ice.",
+      "id": 5
+    },
+    {
+      "title": "Whisky Mac",
+      "image": "https://www.thecocktaildb.com/images/media/drink/yvvwys1461867858.jpg",
+      "instructions": "Pour both of the ingredients into a wine goblet with no ice.",
+      "id": 6
+    },
+    {
+      "title": "whisky",
+      "instructions": "asdasd",
+      "id": 7
+    },
+    {
+      "title": "pinia colada",
+      "instructions": "asdasd",
+      "id": 8
+    },
+    {
+      "title": "pinia colada",
+      "instructions": "asdasd",
+      "id": 9
     }
   ]
 }
